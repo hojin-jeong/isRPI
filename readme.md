@@ -1,7 +1,7 @@
 
 # isRPI
 [![GitHub](https://img.shields.io/github/license/hojin-jeong/isRPI)](https://github.com/hojin-jeong/isRPI/blob/master/license.md)
-[![npm](https://img.shields.io/npm/v/isRPI)](https://badge.fury.io/js/isRPI)
+[![npm](https://img.shields.io/npm/v/isrpi)](https://badge.fury.io/js/isrpi)
 
 > RaspberryPI Check with parse board information. lightweight, no dependencies, pure javascript
 

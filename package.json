@@ -1,6 +1,6 @@
 {
   "name": "isrpi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RaspberryPI Check with parse board information",
   "main": "lib/app.js",
   "directories": {
@@ -10,6 +10,7 @@
     "test": "node test.js"
   },
   "keywords": [
+    "isrpi",
     "raspberrypi",
     "raspberry",
     "pi",
