@@ -1,0 +1,159 @@
+{
+  "path": "/proc/cpuinfo",
+  "old_parser": {
+    "0002": {
+      "model": "B",
+      "memorySize": "256MB",
+      "revision": "1.0",
+      "manufacturer": "Egoman"
+    },
+    "0003": {
+      "model": "B",
+      "memorySize": "256MB",
+      "revision": "1.0",
+      "manufacturer": "Egoman"
+    },
+    "0004": {
+      "model": "B",
+      "memorySize": "256MB",
+      "revision": "2.0",
+      "manufacturer": "Sony UK"
+    },
+    "0005": {
+      "model": "B",
+      "memorySize": "256MB",
+      "revision": "2.0",
+      "manufacturer": "Qisda"
+    },
+    "0006": {
+      "model": "B",
+      "memorySize": "256MB",
+      "revision": "2.0",
+      "manufacturer": "Egoman"
+    },
+    "0007": {
+      "model": "A",
+      "memorySize": "256MB",
+      "revision": "2.0",
+      "manufacturer": "Egoman"
+    },
+    "0008": {
+      "model": "A",
+      "memorySize": "256MB",
+      "revision": "2.0",
+      "manufacturer": "Sony UK"
+    },
+    "0009": {
+      "model": "A",
+      "memorySize": "256MB",
+      "revision": "2.0",
+      "manufacturer": "Qisda"
+    },
+    "000d": {
+      "model": "B",
+      "memorySize": "512MB",
+      "revision": "2.0",
+      "manufacturer": "Egoman"
+    },
+    "000e": {
+      "model": "B",
+      "memorySize": "512MB",
+      "revision": "2.0",
+      "manufacturer": "Sony UK"
+    },
+    "000f": {
+      "model": "B",
+      "memorySize": "512MB",
+      "revision": "2.0",
+      "manufacturer": "Egoman"
+    },
+    "0010": {
+      "model": "B+",
+      "memorySize": "512MB",
+      "revision": "1.2",
+      "manufacturer": "Sony UK"
+    },
+    "0011": {
+      "model": "CM1",
+      "memorySize": "512MB",
+      "revision": "1.0",
+      "manufacturer": "Sony UK"
+    },
+    "0012": {
+      "model": "A+",
+      "memorySize": "256MB",
+      "revision": "1.1",
+      "manufacturer": "Sony UK"
+    },
+    "0013": {
+      "model": "B+",
+      "memorySize": "512MB",
+      "revision": "1.2",
+      "manufacturer": "Embest"
+    },
+    "0014": {
+      "model": "CM1",
+      "memorySize": "512MB",
+      "revision": "1.0",
+      "manufacturer": "Embest"
+    },
+    "0015": {
+      "model": "A+",
+      "memorySize": "256MB/512MB",
+      "revision": "1.1",
+      "manufacturer": "Embest"
+    }
+  },
+  "parser": {
+    "warranty": {
+      "0": "Warranty is intact",
+      "1": "Warranty has been voided by overclocking"
+    },
+    "flag": {
+      "0": "old-style revision",
+      "1": "new-style revision"
+    },
+    "memory": {
+      "0": "256MB",
+      "1": "512MB",
+      "2": "1GB",
+      "3": "2GB",
+      "4": "4GB",
+      "5": "8GB"
+    },
+    "manufacturer": {
+      "0": "Sony UK",
+      "1": "Egoman",
+      "2": "Embest",
+      "3": "Sony Japan",
+      "4": "Embest",
+      "5": "Stadium"
+    },
+    "processor": {
+      "0": "BCM2835",
+      "1": "BCM2836",
+      "2": "BCM2837",
+      "3": "BCM2711"
+    },
+    "model": {
+      "0": "A",
+      "1": "B",
+      "2": "A+",
+      "3": "B+",
+      "4": "2B",
+      "5": "Alpha (early prototype)",
+      "6": "CM1",
+      "8": "3B",
+      "9": "Zero",
+      "a": "CM3",
+      "c": "Zero W",
+      "d": "3B+",
+      "e": "3A+",
+      "f": "Internal use only",
+      "10": "CM3+",
+      "11": "4B",
+      "13": "400",
+      "14": "CM4"
+    }
+  }
+}
