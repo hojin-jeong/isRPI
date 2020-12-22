@@ -14,7 +14,7 @@ npm install isrpi
 
 ## Basic Usage
 ```javascript
-const isRPI = require('isrpi')
+const isRPI = require("isrpi")
 
 console.log(isRPI())
 ```
@@ -38,12 +38,12 @@ from Raspberry PI 4
 ```json
 {
   "warrentyBit": "Warranty is intact",
-  "revisionFlag": "old-style revision",
-  "memorySize": "256MB",
+  "revisionFlag": "new-style revision",
+  "memorySize": "2GB",
   "manufacturer": "Sony UK",
-  "processor": "BCM2835",
-  "model": "A",
-  "revision": "1.0"
+  "processor": "BCM2711",
+  "model": "4B",
+  "revision": "1.1"
 }
 ```
 
